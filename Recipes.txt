@@ -5,6 +5,7 @@ Welcome to Telusco Kitchen
 Kheery
 Pasta
 Chicken Fry
-
+Beans
+Pizza
 
 Thank you
